@@ -1,0 +1,17 @@
+header {
+    width: 1500px;
+    height: 360px;
+}
+
+h1 {
+    width: 1500px;
+    height: 50px;
+    background-color: blue;
+}
+
+h3 {
+    align-self: center;
+    width: 250px;
+    height: 35;
+    background-color: blueviolet;
+}

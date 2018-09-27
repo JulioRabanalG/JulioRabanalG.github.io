@@ -1,45 +1,42 @@
-body {
-    width: 960px;
-    height: 800px;
-    margin: 0px auto 0px auto;
-}
-
-.primercuerpo {
-    width: 960px;
-    height: 50px;
-    margin: 0px auto 0px auto;
-    text-align: center;
-}
-
-.datitos {
-    width: 260px;
-    height: 400px;
-    float: left;
-}
-
-.primeradescripc {
-    width: 700px;
-    height: 600px;
-    float: left;
-}
-
-.co1 {
-    width: 215px;
-    height: 300px;
-    float: left;
-    margin-left: 0px;
-}
-
-.co1 {
-    margin-left: 5px;
-    width: 220px;
-    height: 300px;
-    float: left;
-}
-
-.co3 {
-    margin-left: 5px;
-    width: 215px;
-    height: 300px;
-    float: left;
-}
+        body {
+            width: 960px;
+            height: 800px;
+            margin: 0px auto 0px auto;
+        }
+        
+        .primercuerpo {
+            width: 960px;
+            height: 50px;
+            margin: 0px auto 0px auto;
+            text-align: center;
+        }
+        
+        .datitos {
+            width: 230px;
+            height: 400px;
+            float: left;
+        }
+        
+        .primeradescripc {
+            width: 700px;
+            height: 800px;
+            float: left;
+        }
+        
+        .co1 {
+            width: 200px;
+            height: 300px;
+            float: left;
+        }
+        
+        .co1 {
+            width: 200px;
+            height: 300px;
+            float: left;
+        }
+        
+        .co3 {
+            width: 200px;
+            height: 300px;
+            float: left;
+        }
