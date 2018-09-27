@@ -1,3 +1,10 @@
+header {
+    width: 1300px;
+    height: 350px;
+}
+
 h1 {
-    color: bisque;
+    width: 1300px;
+    height: 45px;
+    background-color: aqua;
 }
