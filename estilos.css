@@ -10,6 +10,7 @@ h1 {
 }
 
 h3 {
+    align-self: center;
     width: 250px;
     height: 35;
     background-color: blueviolet;
