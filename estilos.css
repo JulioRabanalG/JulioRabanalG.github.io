@@ -9,9 +9,9 @@ h1 {
     background-color: blue;
 }
 
-h3 {
-    align-self: center;
-    width: 250px;
-    height: 35;
-    background-color: blueviolet;
+.imagen {
+    top: 30%;
+    width: 30%;
+    height: auto;
+    float: left;
 }
